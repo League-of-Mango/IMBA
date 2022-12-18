@@ -4,7 +4,7 @@ This is a description of every Minecraft resource pack that is built into the mo
 
 ## [Verity](https://github.com/League-of-Mango/Svalbard/raw/main/minecraft/resourcepacks/Verity.zip)
 
-An edited version of the [Team FaithfulPack's](https://www.faithfulpack.net) [Classic Faithful 32x32 Programmer Art Resource Pack](https://www.faithfulpack.net/classicfaithful/32x-programmer-art).<br>
+An edited version of the **[Team FaithfulPack's](https://www.faithfulpack.net)** *[Classic Faithful 32x32 Programmer Art Resource Pack](https://www.faithfulpack.net/classicfaithful/32x-programmer-art)*.<br>
 Not only are Vattic's old 32x32 vanilla textures present, but also textures of newer blocks are made in Vattic's style for Programmer Art.
 
 Verity takes the Faithful pack one step further and uses some of the improved non-Programmer Art textures for some blocks as well as some small tweaks.
