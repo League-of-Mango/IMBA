@@ -1,6 +1,6 @@
-# FancyMenu Custom Scenes
+# Custom Scene List
 
-This is a list of every custom FancyMenu scene created for this modpack.
+This is a list of every custom scene for loading and menu screens created for this modpack.
 
 [FancyMenu](https://www.curseforge.com/minecraft/mc-mods/fancymenu-forge) is a mod by [Keksuccino](https://github.com/Keksuccino) that allows for custom Minecraft menus to be created.
 
