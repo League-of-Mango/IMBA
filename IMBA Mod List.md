@@ -1,6 +1,6 @@
 # Mod List
 
-Mod Count: X
+Mod Count: 248
 
 Mods in _italics_ are included only in the **Premium Edition**.
 
@@ -20,7 +20,6 @@ Version numbers with * cannot be updated.
   - [Performance Enhancing Mods and Bug Fixes](#performance-enhancing-mods-and-bug-fixes)
   - [Modpack Utility Mods](#modpack-utility-mods)
   - [Library Mods](#library-mods)
-- [Mods to be Added](#mods-to-be-added)
 - [Possible Mods to Add](#possible-mods-to-add)
 
 # Currently Implemented Mods
@@ -1166,6 +1165,100 @@ A collection of mods which help multiplayer servers.
 - API for the Yung's Better mod series.
 - 2.2.9
 
-# Mods to be Added
-
 # Possible Mods to Add
+
+### [Ars Nouveau](https://www.curseforge.com/minecraft/mc-mods/ars-nouveau)
+
+- Magic mod that involves custom spell creation, magical artifacts, rituals, and familiars.
+
+### [AmbientSounds 3](https://www.curseforge.com/minecraft/mc-mods/ambientsounds)
+
+- Adds more ambient sounds.
+
+### [Ambience](https://www.curseforge.com/minecraft/mc-mods/ambience-extras)
+
+- Plays sounds and animations when a player does something notable.
+
+### [Dungeon Crawl](https://www.curseforge.com/minecraft/mc-mods/dungeon-crawl)
+
+- Generates large, underground roguelike structures.
+
+### [Engineer's Decor](https://www.curseforge.com/minecraft/mc-mods/engineers-decor)
+
+- Adds new blocks that match Immmersive Engineering's aesthetic.
+
+### [Redstone Gauges and Switches](https://www.curseforge.com/minecraft/mc-mods/redstone-gauges-and-switches)
+
+- Adds various aesthetic redstone components.
+
+### [Miner's Helmet](https://www.curseforge.com/minecraft/mc-mods/miners-helmet)
+
+- Adds a helmet that provides light around the wearer.
+
+### [Scuba Gear](https://www.curseforge.com/minecraft/mc-mods/scuba-gear)
+
+- Adds a set of armor that allows for you to breathe underwater and move underwater faster.
+
+### [Mowzie's Mobs](https://www.curseforge.com/minecraft/mc-mods/mowzies-mobs)
+
+- Adds new, challenging boss mobs.
+
+### [Psi](https://www.curseforge.com/minecraft/mc-mods/psi)
+
+- Programmable magic.
+
+### [Good Night's Sleep](https://www.curseforge.com/minecraft/mc-mods/good-nights-sleep)
+
+- Adds two new dimensions: the dream world and the nightmare dimension. These can be accessed by sleeping in a special bed.
+
+### [The Abyss](https://www.curseforge.com/minecraft/mc-mods/the-abyss)
+
+- Adds a new dimension with dark dangers.
+
+### [Tumbleweed](https://www.curseforge.com/minecraft/mc-mods/tumbleweed)
+
+- Rolling plants that may have loot.
+
+### [Just Another Void Dimension](https://www.curseforge.com/minecraft/mc-mods/just-another-void-dimension)
+
+- Void dimension
+
+### [Nature's Aura](https://www.curseforge.com/minecraft/mc-mods/natures-aura)
+
+- Magic mod that uses surrounding nature.
+
+### [Advanced Hook Launchers](https://www.curseforge.com/minecraft/mc-mods/advanced-hook-launchers)
+
+- Adds various kinds of grappling hooks.
+
+### [Explorer's Compass](https://www.curseforge.com/minecraft/mc-mods/explorers-compass)
+
+- Compass that locates structures.
+
+### [Waddles](https://www.curseforge.com/minecraft/mc-mods/waddles)
+
+- Adds penguins.
+
+### [Infernal Expansion](https://www.curseforge.com/minecraft/mc-mods/infernal-expansion)
+
+- Adds more mobs to the Nether.
+
+### [Untamed Wilds](https://www.curseforge.com/minecraft/mc-mods/untamedwilds)
+
+- Adds new mobs to the overworld.
+
+### [Netherite Firework](https://www.curseforge.com/minecraft/mc-mods/netherite-firework)
+
+- Reusable Firework
+
+### [Abundance](https://www.curseforge.com/minecraft/mc-mods/abundance)
+
+- Adds flower biomes.
+
+### [Bayou Blues](https://www.curseforge.com/minecraft/mc-mods/bayou-blues)
+
+- Adds a bayou biome.
+
+### [Little Logistics](https://www.curseforge.com/minecraft/mc-mods/little-logistics)
+
+- Adds small trains and boats that automatically transfer items over distances.
