@@ -1,7 +1,7 @@
-# v0.4
+# v0.5.4
 
-- All mods in working mod list present.
+- Added all mods for final mod list.
 
-- Performance optimization and shader setup complete.
+- Performance optimization and shader setup in-progress but working.
 
 - Quests, config balancing, and custom recipes incomplete.
