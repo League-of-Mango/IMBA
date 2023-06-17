@@ -1,10 +1,12 @@
 # Mod List
 
-Mod Count: 248
+Mod Count: 243
 
 Mods in _italics_ are included only in the **Premium Edition**.
 
 Mods with ~ may not make it into the final modpack.
+
+Mods with ! have a bug that may crash the game on start (~50% chance).
 
 Version numbers with * cannot be updated.
 
@@ -33,7 +35,7 @@ Version numbers with * cannot be updated.
   - [Applied Energistics 2 Wireless Terminals](https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2-wireless-terminals)
     - Adds wireless versions of different AE2 terminals such as crafting, pattern, interface, and fluid.
     - 11.6.3
-  - [Applied Mekanistics](https://www.curseforge.com/minecraft/mc-mods/applied-mekanistics)
+  - [Applied Mekanistics](https://www.curseforge.com/minecraft/mc-mods/applied-mekanistics)~
     - Adds support for Mekanism gases to AE2.
     - 1.2.2
 
@@ -49,19 +51,14 @@ Version numbers with * cannot be updated.
 
 - Mod that allows for large mechanical contraptions to be made that can do almost anything including farming, mining, crafting, and transportation.
 - 0.5.1b
-- [Compressed Creativity](https://www.curseforge.com/minecraft/mc-mods/compressedcreativity)~
-  - Adds content that combines Create and Pneumaticraft.
-  - 0.1.5
-- [Create: Industrial Chemistry](https://www.curseforge.com/minecraft/mc-mods/create-industrial-chemistry)
-  - Adds chemical engineering to Create.
-  - 0.4.1
 - [Create Slice and Dice](https://www.curseforge.com/minecraft/mc-mods/slice-and-dice)~
   - Adds integration between Create and Farmer's Delight.
+  - 1.2.1
 
 ### [Dark Utilities](https://www.curseforge.com/minecraft/mc-mods/dark-utilities)
 
 - Adds new tools and blocks such as vector plates and mob filters which can be very useful in many situations.
-- 10.1.6
+- 10.1.7
 
 ### [Farmer's Delight](https://www.curseforge.com/minecraft/mc-mods/farmers-delight)
 
@@ -94,10 +91,10 @@ Version numbers with * cannot be updated.
 ### [Immersive Engineering](https://www.curseforge.com/minecraft/mc-mods/immersive-engineering)
 
 - A realistic tech mod with a rustic feel. It features multi-block machines which are both functional and fashionabl. It also features electrical wires which can be strewn over long distances and carry RF and redstone signals. Various additional cosmetic blocks and lighting fixtures are present to help create an aesthetic base. Finally, various weapons such as revolvers and railguns are present.
-- 8.4.0
+- 8.4.0-161
 - [Immersive Petroleum](https://www.curseforge.com/minecraft/mc-mods/immersive-petroleum)
   - An addon for Immersive Engineering which adds oil generation and oil processing.
-  - 4.1.0-21
+  - 4.1.0-19*
 
 ### [Mekanism](https://www.curseforge.com/minecraft/mc-mods/mekanism)
 
@@ -119,8 +116,6 @@ Version numbers with * cannot be updated.
 - [Quark Oddities](https://www.curseforge.com/minecraft/mc-mods/quark-oddities)
   - Additional features to Quark that may not necessarily fit Vanilla Minecraft. Includes copper pipes, magnets, Quark crate, and matrix enchanting.
   - 1.18
-- [Vertical Slabs Compat](https://www.curseforge.com/minecraft/mc-mods/vertical-slabs-compat)
-  - Adds more vertical slabs with other mod materials.
 
 ### RFTools Pack
 
@@ -179,9 +174,12 @@ The Thermal Suite includes:
 - [Thermal Innovation](https://www.curseforge.com/minecraft/mc-mods/thermal-integration)
   - Adds more compatability between Thermal and other mods.
   - 9.2.0.16
-- [Thermal Locomotion](https://www.curseforge.com/minecraft/mc-mods/thermal-locomotion)~
+- [Thermal Locomotion](https://www.curseforge.com/minecraft/mc-mods/thermal-locomotion)
   - Adds new types of minecarts and rails.
   - 9.2.0.13
+- [Thermal Integration](https://www.curseforge.com/minecraft/mc-mods/thermal-integration)
+  - Adds integrated recipes.
+  - 9.2.0.16
 
 ### [Tinker's Construct](https://www.curseforge.com/minecraft/mc-mods/tinkers-construct)
 
@@ -189,7 +187,7 @@ The Thermal Suite includes:
 - 3.6.4.113
 - [Tinkers' Integrations and Tweaks](https://www.curseforge.com/minecraft/mc-mods/tcintegrations)
   - Adds materials from other mods with unique stats and abilities.
-  - 2.0.15.0
+  - 2.0.17.2
 - [Tinker's Planner](https://www.curseforge.com/minecraft/mc-mods/tinkers-planner)
   - Adds a planner to the Tinker Station that lets players draft tools to view their stats and save them to be referenced later.
   - 1.2.0
@@ -287,15 +285,15 @@ The Thermal Suite includes:
 - Adds a few small features that would fit with Vanilla minecraft.
 - 1.3.0.9
 
-### [Small Ships](https://www.curseforge.com/minecraft/mc-mods/small-ships)
+### [Small Ships](https://www.curseforge.com/minecraft/mc-mods/small-ships)~
 
 - Adds functional ships with sails that can carry cargo and cannons.
-- 2.0.0
+- 2.3.1a
 
 ### [Sophisticated Backpacks](https://www.curseforge.com/minecraft/mc-mods/sophisticated-backpacks)
 
 - Adds stylish backpacks with modular upgrades that are useful and powerful.
-- 3.18.48.835
+- 3.18.52.846
 
 ### [Storage Drawers](https://www.curseforge.com/minecraft/mc-mods/storage-drawers)
 
@@ -308,7 +306,7 @@ The Thermal Suite includes:
 ### [Supplementaries](https://www.curseforge.com/minecraft/mc-mods/supplementaries)
 
 - Adds many new functional and decorative blocks that would fit with Vanilla Minecraft.
-- 1.5.16
+- 1.5.18
 
 ### [Swashbucklers!](https://www.curseforge.com/minecraft/mc-mods/swashbucklers)
 
@@ -344,13 +342,17 @@ A collection of various mods that aim to match vanilla Minecraft, most notably w
   - 3.0.0
 - [Seasonals](https://www.curseforge.com/minecraft/mc-mods/seasonals)
   - Adds seasonal foods that use Team Abnormal mods.
-- [Woodcutter](https://www.curseforge.com/minecraft/mc-mods/woodworks)
-  - Adds the Sawmill, the sawmill equivalent for wood.
+  - 3.0.0
 
 ### [Alex's Mobs](https://www.curseforge.com/minecraft/mc-mods/alexs-mobs)
 
 - Adds many new mobs including those based on real life creatures and Minecraft fantasy. Every mob added has unique drops, mechanics, or functions so no mob is purely aesthetic.
 - 1.18.6
+
+### [Champions](https://www.curseforge.com/minecraft/mc-mods/champions)
+
+- Mobs will randomly become elite mobs with enhanced stats and loot.
+- 2.1.6.3
 
 ### [The Conjurer](https://www.curseforge.com/minecraft/mc-mods/the-conjurer)
 
@@ -360,7 +362,7 @@ A collection of various mods that aim to match vanilla Minecraft, most notably w
 ### [Diet](https://www.curseforge.com/minecraft/mc-mods/diet)
 
 - Every food item in the game will give different nutrients. These nutrients are divided into separate groups. By maintaning a healthy balance of nutrients, players will receive benefits as opposed to only eating one type of food.
-- 1.3.2.0
+- 1.3.2.1
 - [Mindful Eating](https://www.curseforge.com/minecraft/mc-mods/mindful-eating)
   - Addon mod to Diet that encourages eating different foods with positive mechanics like saturation usage reduction and balanced eating time. For information can be found in [this video](https://www.youtube.com/watch?v=NN8Vgj4wrFw)
   - 2.0.1
@@ -384,11 +386,6 @@ A collection of various mods that aim to match vanilla Minecraft, most notably w
 
 - Adds dungeons and structures that utilize other mods to create elaborate builds.
 - 1.6.6
-
-### [Valhelsia Structures](https://www.curseforge.com/minecraft/mc-mods/valhelsia-structures)
-
-- Adds new structures to the world.
-- 0.1.0
 
 ### Yung's Better Mods
 
@@ -451,6 +448,7 @@ A collection of mods that improve vanilla structure generation.
 ### [Creeper Confetti](https://www.curseforge.com/minecraft/mc-mods/creeper-confetti)
 
 - Creepers now have a 25% chance to explode into harmless confetti.
+- 3.11
 
 ### [Customizable Elytra](https://www.curseforge.com/minecraft/mc-mods/customizable-elytra)
 
@@ -461,11 +459,6 @@ A collection of mods that improve vanilla structure generation.
 
 - Re-adds a feature that makes the screen tilt after taking damage in the direction of the damage source.
 - 0.1.1
-
-### [Every Compat](https://www.curseforge.com/minecraft/mc-mods/every-compat)
-
-- Adds missing wood variants for everything.
-- 1.5.18
 
 ### [Giants Spawn](https://www.curseforge.com/minecraft/mc-mods/giant-spawn)
 
@@ -485,14 +478,14 @@ A collection of mods that improve vanilla structure generation.
 ### [Immersive Paintings](https://www.curseforge.com/minecraft/mc-mods/immersive-paintings)
 
 - Adds a GUI to add detailed or custom paintings with filters. Compatible with the Joy of Painting mod.
-- 0.6.0
+- 0.6.1
 
 ### [Instrumental Mobs](https://www.curseforge.com/minecraft/mc-mods/instrumental-mobs)
 
 - Some mobs now spawn with instruments and will attempt to kill you with vibes.
 - 1.3.5
 
-### [Joy of Painting](https://www.curseforge.com/minecraft/mc-mods/joy-of-painting)
+### [Joy of Painting](https://www.curseforge.com/minecraft/mc-mods/joy-of-painting)!
 
 - Paint your own pictures in Minecraft and proudly display them.
 - 1.0.2
@@ -517,7 +510,7 @@ A collection of mods that improve vanilla structure generation.
 - 🗿
 - 1.1.4
 
-### [Music Maker Mod](https://www.curseforge.com/minecraft/mc-mods/music-maker-mod)
+### [Music Maker Mod](https://www.curseforge.com/minecraft/mc-mods/music-maker-mod)!
 
 - Adds playable instruments and music sheets. Create, play, and perform custom-made music alone or with friends.
 - 1.1.0
@@ -530,6 +523,7 @@ A collection of mods that improve vanilla structure generation.
 ### _[Presence Footsteps](https://www.curseforge.com/minecraft/mc-mods/presence-footsteps-forge)_
 
 - Adds footstep noises depending on which block is being stepped on.
+- 1.5.1
 
 ### [Seamless Loading Screen](https://www.curseforge.com/minecraft/mc-mods/seamless-loading-screen-forge)
 
@@ -580,7 +574,7 @@ A collection of mods that improve vanilla structure generation.
 ### [Crafting Tweaks](https://www.curseforge.com/minecraft/mc-mods/crafting-tweaks)
 
 - Adds buttons and shortcuts that make crafting easier.
-- 14.0.4
+- 14.0.7
 
 ### [Cycle Paintings](https://www.curseforge.com/minecraft/mc-mods/cycle-paintings)
 
@@ -625,7 +619,7 @@ A collection of mods that improve vanilla structure generation.
 ### [Jade](https://www.curseforge.com/minecraft/mc-mods/jade)
 
 - Shows information about the block or entity you are viewing.
-- 5.2.6
+- 5.3.0
 - [Jade Addons](https://www.curseforge.com/minecraft/mc-mods/jade-addons)
   - Adds more mod support.
   - 2.5.0
@@ -639,7 +633,7 @@ A collection of mods that improve vanilla structure generation.
   - 0.14.1.171
   - [JER Integration](https://www.curseforge.com/minecraft/mc-mods/jer-integration)
     - Adds missing JER information for some mods.
-    - 3.3.2
+    - 3.4.0
 - [Just Enough Effect Descriptions](https://www.curseforge.com/minecraft/mc-mods/just-enough-effect-descriptions-jeed)
   - Displays information about potion effects and their sources.
   - 1.11
@@ -701,6 +695,11 @@ A collection of mods that improve vanilla structure generation.
 - Adds an HP bar above every mob.
 - 1.30*
 
+### [Nicephore](https://www.curseforge.com/minecraft/mc-mods/nicephore)
+
+- Improves Minecraft Screenshots (Copy to Clipboard, Gallery GUI).
+- 1.3.0
+
 ### [Not Enough Crashes](https://www.curseforge.com/minecraft/mc-mods/not-enough-crashes-forge)
 
 - In-game crashes now take the user back to the main menu. Displays more detailed crash logs.
@@ -743,7 +742,7 @@ All of these mods are optional, but are highly recommended.
 ### [Borderless Window](https://www.curseforge.com/minecraft/mc-mods/borderless)
 
 - Replaces Minecraft's default fullscreen mode with a custom borderless fullscreen if it would be faster.
-- 1.18.2
+- 1.4.0
 
 ### [Compact Help Command](https://www.curseforge.com/minecraft/mc-mods/compact-help-command)
 
@@ -784,7 +783,7 @@ All of these mods are optional, but are highly recommended.
   - 1.1.1
 - [Drippy Loading Screen](https://www.curseforge.com/minecraft/mc-mods/drippy-loading-screen)
   - Allows for the initial loading screen to be customized.
-  - 2.2.1
+  - 2.2.2
 
 ### [Farsight](https://www.curseforge.com/minecraft/mc-mods/farsight)
 
@@ -795,7 +794,7 @@ All of these mods are optional, but are highly recommended.
 
 - Allows for Optifine Shaders to be used.
 - The modpack comes shipped with [Complementary Shaders](https://www.complementary.dev), which are designed to be as compatible as possible with modded minecraft.
-- 1.5.2
+- 1.6.4
 
 ### [ReAuth](https://www.curseforge.com/minecraft/mc-mods/reauth)
 
@@ -817,7 +816,7 @@ All of these mods are optional, but are highly recommended.
 ### [Canary](https://www.curseforge.com/minecraft/mc-mods/canary)
 
 - Forge port of Lithium. Optimizes game events such as physics, mob AI, and more.
-- 0.2.1
+- 0.2.3
 
 ### [Clumps](https://www.curseforge.com/minecraft/mc-mods/clumps)
 
@@ -829,15 +828,15 @@ All of these mods are optional, but are highly recommended.
 - Fixes some problems involving server connection.
 - 3.2
 
-### [Debugify](https://www.curseforge.com/minecraft/mc-mods/debugify)
-
-- Fixes many bugs in Vanilla Minecraft.
-- 1.10
-
 ### [Dynamic View](https://www.curseforge.com/minecraft/mc-mods/dynamic-view)
 
 - Dynamically adjusts server chunk view distance based on server lag.
 - 2.8
+
+### [Entity Collision FPS Fix](https://www.curseforge.com/minecraft/mc-mods/entity-collision-fps-fix)
+
+- Skips client side collision checks as only the server needs to check.
+- 1.0.0
 
 ### [Entity Culling](https://www.curseforge.com/minecraft/mc-mods/entityculling)
 
@@ -879,6 +878,16 @@ All of these mods are optional, but are highly recommended.
 - Makes initializing the game faster.
 - 1.0
 
+### [Lightspeed](https://www.curseforge.com/minecraft/mc-mods/lightspeedmod)
+
+- Makes the game launch faster.
+- 1.0.4
+
+### [ModernFix](https://www.curseforge.com/minecraft/mc-mods/modernfix)
+
+- Optimization and Bug Fixes.
+- 5.0.1
+
 ### [NetherPortalFix](https://www.curseforge.com/minecraft/mc-mods/netherportalfix)
 
 - Makes players return to the same portal they entered the nether from if they return through the same nether portal.
@@ -908,19 +917,14 @@ All of these mods are optional, but are highly recommended.
 
 - Forge port of Sodium. Optimizes Minecraft's rendering engine. Better than Optifine.
 - 0.5.6
-- [TexTrue's Rubidium Options](https://www.curseforge.com/minecraft/mc-mods/textrues-rubidium-options)
-  - Better UI for Rubidium
-  - 1.0.5
+- [Rubidium Extra](https://www.curseforge.com/minecraft/mc-mods/rubidium-extras)
+  - Extra Options for Rubidium.
+  - 0.4.18
 
 ### [Saturn](https://www.curseforge.com/minecraft/mc-mods/saturn)
 
 - Optimizes Minecraft's memory usage.
 - 0.0.4
-
-### [Smooth Chunk Save](https://www.curseforge.com/minecraft/mc-mods/smooth-chunk-save)
-
-- Saves chunks continuously over time, reducing server lag.
-- 1.9
 
 ### [Spark](https://www.curseforge.com/minecraft/mc-mods/spark)
 
@@ -935,6 +939,7 @@ All of these mods are optional, but are highly recommended.
 ### [Too Fast](https://www.curseforge.com/minecraft/mc-mods/too-fast)
 
 - Removes the server-side player speed limit.
+- 0.0.1.3
 
 ## Modpack Utility Mods
 
@@ -960,7 +965,7 @@ All of these mods are optional, but are highly recommended.
 
 A collection of mods which help multiplayer servers.
 
-- [FTB Backups](https://www.curseforge.com/minecraft/mc-mods/ftb-backups-2)
+- [FTB Backups 2](https://www.curseforge.com/minecraft/mc-mods/ftb-backups-2)
   - Makes backups of the world at a specified time. Set to 5:00 AM daily by default.
   - 1.0.10*
 
@@ -977,16 +982,11 @@ A collection of mods which help multiplayer servers.
 
 - [FTB Teams](https://www.curseforge.com/minecraft/mc-mods/ftb-teams)
   - Enables players to form teams to share chunks and quests.
-  - 1802.2.10
+  - 1802.2.11
 
 - [FTB Ultimine](https://www.curseforge.com/minecraft/mc-mods/ftb-ultimine-forge)
   - Allows for multiple blocks of the same kind at a time using a hotkey.
   - 1802.3.3
-
-### [ServerConfig Updater](https://www.curseforge.com/minecraft/mc-mods/serverconfig-updater)
-
-- Allows for server world configs to be regenerated from scratch.
-- 2.2
 
 ## Library Mods
 
@@ -1043,7 +1043,7 @@ A collection of mods which help multiplayer servers.
 ### [Collective](https://www.curseforge.com/minecraft/mc-mods/collective)
 
 - Library for Serilum's mods, which include many Vanilla+ mods like Bigger Sponge Absorption Radius, Compact Help Command, Cycle Paintings, Dismount Entity, Extended Creative Inventory, Fixed Anvil Repair Cost, Giant Spawn, Path Under Gates, Stack Refill, and Villager Names.
-- 6.53
+- 6.57
 
 ### [ConnectedTexturesMod](https://www.curseforge.com/minecraft/mc-mods/ctm)
 
@@ -1058,17 +1058,12 @@ A collection of mods which help multiplayer servers.
 ### [Curios API](https://www.curseforge.com/minecraft/mc-mods/curios)
 
 - Enables additional slots for equipment.
-- 5.0.9.0
+- 5.0.9.1
 
 ### [FlytreLib](https://www.curseforge.com/minecraft/mc-mods/lib)
 
 - Library mod for Dual Riders.
 - 1.8.2
-
-### [FlyWheel](https://www.curseforge.com/minecraft/mc-mods/flywheel)
-
-- Rendering engine for Create.
-- 0.6.8.a
 
 ### [FTB Library](https://www.curseforge.com/minecraft/mc-mods/ftb-library-forge)
 
@@ -1123,7 +1118,7 @@ A collection of mods which help multiplayer servers.
 ### [Sophisticated Core](https://www.curseforge.com/minecraft/mc-mods/sophisticated-core)
 
 - Library for Sophisticated Backpacks and Storage.
-- 0.5.48.244
+- 0.5.70.320
 
 ### [Structure Gel API](https://www.curseforge.com/minecraft/mc-mods/structure-gel-api)
 
@@ -1155,25 +1150,16 @@ A collection of mods which help multiplayer servers.
 - Library for Applied Cooking.
 - 1.0.2
 
-### [Valhelsia Core](https://www.curseforge.com/minecraft/mc-mods/valhelsia-core)
-
-- Core mod for Valhelsia Structures.
-- 0.4.0
-
 ### [Yung's API]((https://www.curseforge.com/minecraft/mc-mods/yungs-api))
 
 - API for the Yung's Better mod series.
 - 2.2.9
 
-# Possible Mods to Add
+## Possible Mods to Add
 
 ### [Ars Nouveau](https://www.curseforge.com/minecraft/mc-mods/ars-nouveau)
 
 - Magic mod that involves custom spell creation, magical artifacts, rituals, and familiars.
-
-### [AmbientSounds 3](https://www.curseforge.com/minecraft/mc-mods/ambientsounds)
-
-- Adds more ambient sounds.
 
 ### [Ambience](https://www.curseforge.com/minecraft/mc-mods/ambience-extras)
 
@@ -1262,3 +1248,10 @@ A collection of mods which help multiplayer servers.
 ### [Little Logistics](https://www.curseforge.com/minecraft/mc-mods/little-logistics)
 
 - Adds small trains and boats that automatically transfer items over distances.
+
+- [Compressed Creativity](https://www.curseforge.com/minecraft/mc-mods/compressedcreativity)~
+  - Adds content that combines Create and Pneumaticraft.
+  - 0.1.5
+- [Create: Industrial Chemistry](https://www.curseforge.com/minecraft/mc-mods/create-industrial-chemistry)
+  - Adds chemical engineering to Create.
+  - 0.4.1
