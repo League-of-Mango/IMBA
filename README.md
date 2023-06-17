@@ -42,3 +42,5 @@ Information about the League of Mango can be found here:
 [https://leagueofmango.xyz](https://leagueofmango.xyz)
 
 The modlist can be found here:
+
+[IMBA Modlist](https://github.com/League-of-Mango/IMBA/blob/main/IMBA%20Mod%20List.md)
